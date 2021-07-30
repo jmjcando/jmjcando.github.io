@@ -100,28 +100,29 @@
         "url": "https://ssctech.service-now.com/sp"
       },
       {
-        "title": "dayforce ssctech",
+        "title": "dayforce",
         "url": "https://www.dayforcehcm.com",
         "note": "ssctech"
       },
-
+      {
+        "title": "benefit hub",
+        "url": "http://ssctech.benefithub.com",
+        "note": "discounts"
+      },
+      {
+        "title": "plum benefits",
+        "url": "https://www.plumbenefits.com",
+        "note": "discounts"
+      },
       {
         "title": "desktop cloud",
         "url": "https://desktop.ssnc.cloud/"
       },
       {
-        "title": "Hireright - bg chk",
+        "title": "Hireright",
         "url": "https://ows01.hireright.com/applicant_center2/mvc_controller?key=7DA8629840E36CE53D8EEF92BC058A55"
-      },
-      {
-        "title": "Benefits",
-        "url": "https://www.ssctech.com/benefits/index.html"
-      },
-      {
-        "title": "Benefit Hub (discounts)",
-        "url": "https://ssctech.benefithub.com"
+        ,"note": "bg check"
       }
-
       
     ]
   },
