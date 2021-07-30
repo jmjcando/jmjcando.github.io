@@ -89,12 +89,22 @@
     "bkmrks": [
       {
         "title": "Myworkday",
-        "url": "https://www.myworkday.com/wday/authgwy/ssctech/login.htmld"
+        "url": "https://www.myworkday.com/ssctech"
       },
       {
         "title": "Service-now",
+        "url": "https://ssctech.service-now.com"
+      },
+      {
+        "title": "Service-now/sp",
         "url": "https://ssctech.service-now.com/sp"
       },
+      {
+        "title": "dayforce ssctech",
+        "url": "https://www.dayforcehcm.com",
+        "note": "ssctech"
+      },
+
       {
         "title": "desktop cloud",
         "url": "https://desktop.ssnc.cloud/"
