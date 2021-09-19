@@ -121,9 +121,9 @@
   {
     "title": "Cricket",
     "bkmrks": [
-      {"url":"https://www.espn.com/espnplus/"},
-      {"url":"https://www.disneyplus.com"},
-      {"url":"https://www.hulu.com"},
+      { "title": "espn-plus", "url":"https://www.espn.com/espnplus/"},
+      { "title": "disney-plus", "url":"https://www.disneyplus.com"},
+      { "title": "hulu", "url":"https://www.hulu.com"},
       {
         "title": "hotstar",
         "url": "https://us.hotstar.com"
