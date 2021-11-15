@@ -1316,8 +1316,16 @@
         "url": "http://co.middlesex.nj.us/index.asp"
       },
       {
-        "title": "Mdlsx County: Land Records",
-        "url": "https://mcrecords.co.middlesex.nj.us/records/index.jsp"
+        "title": "Middlesex County: Land Records Search (web)",
+        "url": "https://mcrecords.co.middlesex.nj.us/publicsearch1/"
+      },
+      {
+        "title": "Middlesex County: Land Records",
+        "url": "https://mcrecords.co.middlesex.nj.us/recordssearch/"
+      },
+      {
+        "title": "Middlesex County: Land Records (how to)",
+        "url": "http://www.middlesexcountynj.gov/Government/Departments/CS/Pages/County%20Clerk/How-to-Search-Land-Records.aspx"
       },
       {
         "title": "Mdlsx County: ID Cards",
