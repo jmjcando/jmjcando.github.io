@@ -71,20 +71,20 @@
     "bkmrks": [
       {
         "title": "Integrated Enterprise",
-        "url": "http://www.integratedindia.in"
+        "url": "https://integrated.investments"
+      },
+      {
+        "title": "NSDL (eServices)",
+        "url": "https://eservices.nsdl.com"
       },
       {
         "title": "BSE",
         "url": "http://www.bseindia.com/"
       },
       {
-        "title": "BSE - Gujarati",
+        "title": "BSE (Gujarati)",
         "url": "http://www.gujbseindia.com/"
       },
-      {
-        "title": "NSDL-eServices",
-        "url": "https://eservices.nsdl.com"
-      }
     ]
   },
   {
