@@ -84,26 +84,27 @@
       {
         "title": "BSE (Gujarati)",
         "url": "http://www.gujbseindia.com/"
+      },
+      {
+        "title": "Money Control",
+        "url": "http://www.moneycontrol.com/"
       }
     ]
   },
   {
-    "title": "Investment",
+    "title": "Tax",
     "bkmrks": [
-      {
-        "title": "Money Control",
-        "url": "http://www.moneycontrol.com/"
-      },
       {
         "title": "IT Dept Of India",
         "url": "http://www.incometaxindia.gov.in/"
       },
-      { "title": "IT (eportal)", "url:" " https://eportal.incometax.gov.in"},
-      { "title": "IT (efiling)", "url:" " http://incometax.gov.in"}
+      { "title": "IT (eportal)", "url":"https://eportal.incometax.gov.in"},
+      { "title": "IT (efiling)", "url":"http://incometax.gov.in"},
+      { "title":"TRACES", "url": "https://nriservices.tdscpc.gov.in/nriapp/login.xhtml"}
     ]
   },
   {
-    "title": "Investment",
+    "title": "Bank",
     "bkmrks": [
       {
         "title": "HDFC",
