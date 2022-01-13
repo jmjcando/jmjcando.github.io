@@ -3,21 +3,27 @@
     "title": "Fav-1",
     "bkmrks": [
       {
-        "title": "Kiran Zoom SS&C",
-        "url": "https://ssctech.zoom.us/j/7528074909"
+        "title": "Google Meet (J/nnr-atvx-aro)",
+        "url": "https://meet.google.com/nnr-atvx-aro"
       },
       {
-        "title": "Kiran Zoom JCNJ",
-        "url": "https://us02web.zoom.us/j/85769039791?pwd=T0RaTk9xdVo4d2dNOGcrMnUzM09qdz09"
-      },
-      {
-        "title": "Google Meet (Devang)",
+        "title": "Google Meet (D/exg-cpth-avc)",
         "url": "https://meet.google.com/exg-cpth-avc"
       },
       {
-        "title": "Google Meet (Jayesh/Jaival)",
-        "url": "https://meet.google.com/nnr-atvx-aro"
+        "title": "Zoom (me)",
+        "url": "https://ssctech.zoom.us/my/jayesh.jariwala"
       },
+      
+      {
+        "title": "Zoom Kiran (SS&C)",
+        "url": "https://ssctech.zoom.us/j/7528074909"
+      },
+      {
+        "title": "Zoom Kiran (JCNJ)",
+        "url": "https://us02web.zoom.us/j/85769039791?pwd=T0RaTk9xdVo4d2dNOGcrMnUzM09qdz09"
+      },
+      
       {
         "title": "Gmail",
         "url": "https://gmail.com"
