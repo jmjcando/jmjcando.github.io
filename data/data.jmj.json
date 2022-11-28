@@ -508,6 +508,14 @@
         "title": ".net downloads",
         "url": "https://dotnet.microsoft.com/download"
       },
+     {
+        "title": ".net Framework Life Cycle",
+        "url": "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-framework"
+      },
+      {
+        "title": ".Net and >NT Core Life Cycle",
+        "url": "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core"
+      },
       {
         "title": ".net core support policy",
         "url": "https://dotnet.microsoft.com/platform/support/policy/dotnet-core"
