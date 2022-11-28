@@ -497,31 +497,31 @@
     "title": "Tech/.NET",
     "bkmrks": [
       {
-        "title": ".net archives",
+        "title": ".NET archives",
         "url": "https://dotnet.microsoft.com/download/archives"
       },
       {
-        "title": ".net SDKs",
+        "title": ".NET SDKs",
         "url": "https://www.microsoft.com/net/download/visual-studio-sdks"
       },
       {
-        "title": ".net downloads",
+        "title": ".NET downloads",
         "url": "https://dotnet.microsoft.com/download"
       },
      {
-        "title": ".net Framework Life Cycle",
+        "title": ".NET Framework Life Cycle",
         "url": "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-framework"
       },
       {
-        "title": ".Net and >NT Core Life Cycle",
+        "title": ".NET and .NET Core Life Cycle",
         "url": "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core"
       },
       {
-        "title": ".net core support policy",
+        "title": ".NET core support policy",
         "url": "https://dotnet.microsoft.com/platform/support/policy/dotnet-core"
       },
       {
-        "title": ".net blogs",
+        "title": ".NET blogs",
         "url": "https://blogs.msdn.microsoft.com/dotnet/"
       }
     ]
