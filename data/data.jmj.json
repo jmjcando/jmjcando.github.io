@@ -22,7 +22,6 @@
         "title": "MJJ bookmarks",
         "url": "https://jmjcando.github.io/bookmarks"
       },
-      
       {
         "title": "Gmail",
         "url": "https://gmail.com"
@@ -113,8 +112,10 @@
         "url": "https://www.dayforcehcm.com",
         "note": "ssctech"
       },
-      {        "title":"Holidays (2022)", "url": "https://www.ssctech.com/benefits/pdf/2022%20US%20Holiday%20Schedule.pdf"      },
-        
+      {
+        "title": "Holidays (2022)",
+        "url": "https://www.ssctech.com/benefits/pdf/2022%20US%20Holiday%20Schedule.pdf"
+      },
       {
         "title": "benefit hub",
         "url": "http://ssctech.benefithub.com",
@@ -133,13 +134,15 @@
         "title": "desktop cloud",
         "url": "https://desktop.ssnc.cloud/"
       },
-      {  "title": "Gift Match (CyberGrants)", "url": "https://www.cybergrants.com/pls/cybergrants/eg_portal.home?x_gm_id=5500"      },
+      {
+        "title": "Gift Match (CyberGrants)",
+        "url": "https://www.cybergrants.com/pls/cybergrants/eg_portal.home?x_gm_id=5500"
+      },
       {
         "title": "Hireright",
-        "url": "https://ows01.hireright.com/applicant_center2/mvc_controller?key=7DA8629840E36CE53D8EEF92BC058A55"
-        ,"note": "bg check"
+        "url": "https://ows01.hireright.com/applicant_center2/mvc_controller?key=7DA8629840E36CE53D8EEF92BC058A55",
+        "note": "bg check"
       }
-      
     ]
   },
   {
@@ -493,21 +496,21 @@
     ]
   },
   {
-    "title": "Tech/.NET",
+    "title": "Tech/dotnet/.NET",
     "bkmrks": [
       {
-        "title": ".NET archives",
-        "url": "https://dotnet.microsoft.com/download/archives"
+        "title": "dotnet",
+        "url": "https://dotnet.microsoft.com/en-us/download/dotnet"
+      },
+      {
+        "title": "dotnet-framework (older)",
+        "url": "https://dotnet.microsoft.com/en-us/download/dotnet-framework"
       },
       {
         "title": ".NET SDKs",
         "url": "https://www.microsoft.com/net/download/visual-studio-sdks"
       },
       {
-        "title": ".NET downloads",
-        "url": "https://dotnet.microsoft.com/download"
-      },
-     {
         "title": ".NET Framework Life Cycle",
         "url": "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-framework"
       },
