@@ -94,10 +94,7 @@
   {
     "title": "Tax",
     "bkmrks": [
-      {
-        "title": "IT Dept Of India",
-        "url": "http://www.incometaxindia.gov.in/"
-      },
+      
       { "title": "IT (eportal)", "url":"https://eportal.incometax.gov.in"},
       { "title": "IT (efiling)", "url":"http://www.incometax.gov.in"},
       { "title":"TRACES (nri)", "url": "https://nriservices.tdscpc.gov.in/nriapp/login.xhtml"},
