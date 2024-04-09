@@ -121,7 +121,8 @@
   {
     "title": "Cricket",
     "bkmrks": [
-      { "title":"webcric.com", "url": "http://webcric.com"},
+      { "url": "webcric.com"},
+      { "url":"webcric.info"},
       { "title": "espn-plus", "url":"https://www.espn.com/espnplus/"},
       { "title": "disney-plus", "url":"https://www.disneyplus.com"},
       { "title": "hulu", "url":"https://www.hulu.com"},
